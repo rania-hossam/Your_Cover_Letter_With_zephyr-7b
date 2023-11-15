@@ -2,7 +2,7 @@
 
 This is a Python program that generates cover letters based on your CV (Curriculum Vitae) and a LinkedIn job posting URL. The program utilizes the LLM (zephyr-7b) to generate personalized and professional cover letters.
 
-![Alt Text]((https://github.com/rania-hossam/Your_Cover_Letter_With_zephyr-7b/blob/main/cover_generator_app-master/images/image.jpg)
+![Alt Text](https://github.com/rania-hossam/Your_Cover_Letter_With_zephyr-7b/blob/main/cover_generator_app-master/images/image.jpg)
 ![Alt Text](url)
 ![Alt Text](url)
 
